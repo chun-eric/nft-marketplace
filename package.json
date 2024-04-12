@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/chun-eric/nft-marketplace/issues"
   },
-  "homepage": "https://github.com/chun-eric/nft-marketplace#readme"
+  "homepage": "https://github.com/chun-eric/nft-marketplace#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
 }
