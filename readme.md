@@ -55,5 +55,11 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol
 ```
 
 Check the errorhandling.md file. Errors #3 and #4 occured.
-I also installed npm i dotenv here.
 
+We also need to import hardhat console.
+
+```
+import "hardhat/console.sol";
+```
+
+I also installed npm i dotenv here.
